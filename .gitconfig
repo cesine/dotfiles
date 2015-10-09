@@ -1,0 +1,17 @@
+[user]
+	name = cesine
+	email = cesine@yahoo.com
+	username = \"cesine\"
+[alias]
+	co = checkout
+	st = status
+        hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+	all = fetch --all
+[color]
+	ui = true
+[rerere]
+	enabled = 1
+[gitreview]
+	username = cesine
+[branch]
+	autosetuprebase = never
