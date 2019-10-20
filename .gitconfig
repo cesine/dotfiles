@@ -15,3 +15,9 @@
 	username = cesine
 [branch]
 	autosetuprebase = never
+[gc]
+	autoDetach = false
+[filter "lfs"]
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	required = true

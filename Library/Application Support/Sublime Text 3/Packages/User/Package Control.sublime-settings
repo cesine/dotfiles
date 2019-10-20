@@ -2,15 +2,21 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Package Control"
 	],
 	"installed_packages":
 	[
-		"ApplySyntax",
-		"Better CoffeeScript",
 		"DocBlockr",
-		"HTML-CSS-JS Prettify",
+		"EditorConfig",
+		"Git",
+		"Insert Callback",
+		"JSCS-Formatter",
 		"JsFormat",
 		"JSHint",
-		"Package Control"
+		"Mason",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeLinter-contrib-eslint"
 	]
 }
